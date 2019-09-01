@@ -20,7 +20,7 @@ A place to include any other types of information that you'd like to include abo
 -->
 
 
-<!-- Maria Pershina -->
+<!-- Maria Pershina 
 
 
 PhD  <br/> 
@@ -28,7 +28,7 @@ Department of Computer Science
 Courant Institute of Mathematical Sciences
 New York University
 New York, NY
-Email:    pershina [AT] cs [DOT] nyu [DOT] edu 
+Email:    pershina [AT] cs [DOT] nyu [DOT] edu  -->
 
 
 [  Education |  Industry | Research | Publications | Teaching ]
