@@ -1,5 +1,5 @@
-
-<!--
+----
+<!--  
 ---
 layout: page
 title: About
@@ -31,6 +31,7 @@ New York, NY
 Email:    pershina [AT] cs [DOT] nyu [DOT] edu  -->
 
 
+<!--  
 [  Education |  Industry | Research | Publications | Teaching ]
 
 
@@ -109,3 +110,4 @@ Teaching
         - "Pre-Calculus", Math 250-13, Spring 2008
         - "Calculus I", Math 280, Fall 2007 
 
+-->
