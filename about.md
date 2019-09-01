@@ -20,19 +20,22 @@ A place to include any other types of information that you'd like to include abo
 -->
 
 
-Maria Pershina
+<!-- Maria Pershina -->
 
 
-PhD
+PhD  <br/> 
 Department of Computer Science
 Courant Institute of Mathematical Sciences
 New York University
 New York, NY
-Email:    pershina [AT] cs [DOT] nyu [DOT] edu
+Email:    pershina [AT] cs [DOT] nyu [DOT] edu 
+
+
 [  Education |  Industry | Research | Publications | Teaching ]
 
 
 Education
+
 
         New York University, Department of Computer Science, MS, PhD, 3.9/4.0 (2010-2016)
 
@@ -55,16 +58,20 @@ Industry
         Intern @ Google , Mountain View, Summer 2013
         Building an evaluation tool for hashtags generated on Google+ posts (C++)
 
-    LinkedIn
+ 
+   LinkedIn
 
 
 
 Research
+
+
 I defended my PhD thesis in Computer Science Department at New York University. My research interests include Machine Learning, Language Processing, Algorithms, Information Extraction. I was fortunate to be advised by Professor Ralph Grishman and to be a part of  Proteus Project. During my years at NYU I collaborated with Wei Xu, Yifan He, Thien Nguyen, Bonan Min, Xiang Li, Mohamed Yakout (MSR), Kaushik Chakrabarti (MSR).
 
 
 
 Publications & Patents
+
 
         "Graph-based Approaches to Resolve Entity Ambiguity", Maria Pershina, PhD Thesis, NYU Computer Science Department, 2016, [pdf]
 
@@ -82,7 +89,10 @@ Publications & Patents
 
         "The NYU Entity Discovery and Linking System for TAC 2014", Thien Nguyen, Yifan He, Maria Pershina, Xiang Li, Ralph Grishman (TAC, 2014), [pdf]
 
-       Google Scholar
+
+
+Google Scholar
+
 
 Teaching
 
@@ -98,7 +108,4 @@ Teaching
 
         - "Pre-Calculus", Math 250-13, Spring 2008
         - "Calculus I", Math 280, Fall 2007 
-
-
-       GitHub webpage
 
